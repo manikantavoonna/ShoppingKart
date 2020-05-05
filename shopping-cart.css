@@ -1,0 +1,24 @@
+.login-form {
+    position: fixed;
+    top: 35%;
+    left: 45%;
+    border-style: dotted;
+    border-color: red;
+    border-radius: 3px;
+}
+#backgnd-yellow {
+    background-color: yellow;
+    color:red;
+    font-family: cursive;
+}
+
+.backgnd-blue {
+    background-color: blue;
+	
+}
+
+.shop-image {
+    background-image: url(./shopping.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%
+}
