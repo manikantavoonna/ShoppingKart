@@ -18,3 +18,14 @@ commit 7
 commit 7
 
 commit 8
+
+
+daily activity for a tester
+initial -- clone repo  -- git clone <url> <branchName>
+git pull <mani's repo url> master 
+add new work
+create a branch if needed -- git checkout -b <branchName>
+add the files -- git add .
+commit the changes -- git commit -m  <message>
+push to cloud -- git push origin master
+raise pull reques --do in online
